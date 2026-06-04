@@ -105,6 +105,8 @@ mysql -u root -p hr_management < queries.sql
 
 ## Author
 
-Fadi — IT Student | Aspiring SQL Developer  
-LinkedIn: https://www.linkedin.com/in/unreallfadi  
-GitHub: https://github.com/unreallfadi
+**Fadi**
+SQL Developer | Database Design
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com)
